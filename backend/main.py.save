@@ -1,7 +1,0 @@
-from fastapi import FastAPI
-import psycopg2
-import os
-
-app = FastAPI()
-
-DB_HOST = "db" DB_NAME
